@@ -237,8 +237,8 @@ set4 = set()
 for n in range(1, 11):
     if n not in set1:
         set4.add(n)
-print("(d)", set4, '\n')
+print("d", set4, '\n')
 
-print("(e)", set(range(1, 11)) - (set1 | set2 | set3), '\n')
+print("e", set(range(1, 11)) - (set1 | set2 | set3), '\n')
 
 
