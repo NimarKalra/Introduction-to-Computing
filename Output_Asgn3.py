@@ -3,6 +3,15 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 ========================================================================= RESTART: /Users/nimarkalra/Desktop/Python/asign3.py ========================================================================
 Question 1
+Please give an input- booking
+Total occurances
+b-1
+o-2
+k-1
+i-1
+n-1
+g-1
+Question 1
 Please give an input- my name name is nimar nimar nimar
 Total occurances
 my-1
