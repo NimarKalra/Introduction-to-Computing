@@ -67,7 +67,7 @@ Question #4
  
  
 Object created
-The name of the student it Nimar Kalra and SID is 21105075.
+The name of the student is Nimar Kalra and SID is 21105075.
 Object destroyed
 
 Question 5
