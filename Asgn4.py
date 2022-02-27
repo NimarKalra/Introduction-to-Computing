@@ -61,7 +61,7 @@ print("")
 
 ########################################################################################################
 
-print("Question #3")
+print("Question 3")
 print(" ")
 #Question3
 
@@ -136,7 +136,7 @@ hash_value=hash(max(set1))
 print(f"Hash value of {max(set1)} is {hash_value}")
 
 #######################################################################################################
-print("Question #4")
+print("Question 4")
 print(" ")
 print(" ")
 class Student:
