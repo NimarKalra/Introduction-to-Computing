@@ -34,7 +34,7 @@ Using loops:
   1   3   3   1   
 1   4   6   4   1   
 
-Question #3
+Question 3
  
 
 Enter an Integer:123
@@ -63,7 +63,7 @@ The above set has been converted to immutable.
 Que3.f
 Max value from set is 9
 Hash value of 9 is 9
-Question #4
+Question 4
  
  
 Object created
