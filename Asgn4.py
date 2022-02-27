@@ -152,7 +152,7 @@ student1 = Student("Nimar Kalra",21105075)
 print("Object created")
 
 #printing the assigned values
-print(f"The name of the student it {student1.name} and SID is {student1.sid}.")
+print(f"The name of the student is {student1.name} and SID is {student1.sid}.")
 
 #deleting the object at the end
 del student1
